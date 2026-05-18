@@ -88,8 +88,3 @@ logs/trading_bot.log
 
 ---
 
-# Assumptions
-
-- Binance Futures Testnet account is active
-- API keys are valid
-- Testnet balance is available
