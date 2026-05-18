@@ -1,0 +1,12 @@
+2026-05-18 21:36:18,653 - INFO - MARKET ORDER -> BTCUSDT BUY 0.001
+2026-05-18 21:36:19,059 - INFO - Response: {'orderId': 13156990797, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ14e985f16d4341b330ac03', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1779120380650}
+2026-05-18 21:36:19,059 - INFO - Order placed successfully
+2026-05-18 21:36:41,916 - INFO - LIMIT ORDER -> BTCUSDT SELL 0.001 @ 120000.0
+2026-05-18 21:36:42,244 - INFO - Response: {'orderId': 13156992539, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJaab8d6ed0a18f32ad72b1a', 'price': '120000.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1779120403844}
+2026-05-18 21:36:42,246 - INFO - Order placed successfully
+2026-05-18 21:36:48,250 - INFO - STOP ORDER -> BTCUSDT SELL 0.001 STOP @ 95000.0
+2026-05-18 21:36:48,591 - ERROR - Binance Error: APIError(code=-2021): Order would immediately trigger.
+2026-05-18 21:36:48,591 - ERROR - APIError(code=-2021): Order would immediately trigger.
+2026-05-18 21:42:08,890 - INFO - MARKET ORDER -> BTCUSDT BUY 1.0
+2026-05-18 21:42:09,265 - INFO - Response: {'orderId': 13157013729, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJd430046e6e56dd49f8a39a', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '1.0000', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1779120730873}
+2026-05-18 21:42:09,267 - INFO - Order placed successfully
